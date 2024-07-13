@@ -1,0 +1,10 @@
+# Ignorar la carpeta node_modules
+node_modules/
+
+# También es común ignorar los archivos de entorno y logs
+.env
+*.log
+
+# Ignorar directorios específicos de los sistemas operativos
+.DS_Store
+Thumbs.db
