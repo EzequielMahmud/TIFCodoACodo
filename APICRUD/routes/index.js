@@ -1,4 +1,4 @@
-const express = require("express");
+/* const express = require("express");
 const router = express.Router();
 
 const albumesController = require("../controllers/albumesControllers");
@@ -41,3 +41,4 @@ router.put("/comentarios/:id", comentariosController.actualizarComentario);
 router.delete("/comentarios/:id", comentariosController.borrarComentario);
 
 module.exports = router;
+ */

@@ -1,4 +1,4 @@
-const Canciones = require("../models/albumesModel");
+const Canciones = require("../models/cancionesModel");
 
 // CREATE - READ - UPDATE - DELETE
 
